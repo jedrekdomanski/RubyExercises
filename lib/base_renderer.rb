@@ -4,8 +4,8 @@ module RubyExercise3
 
     private
 
-    def render
-      puts "BaseRenderer#render"
+    def render(text)
+      puts "BaseRenderer#render\n#{text}"
     end
 
   end
