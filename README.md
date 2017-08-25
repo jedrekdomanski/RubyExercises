@@ -1,5 +1,5 @@
 # Ruby errors, gotchas and Classes
-# Contains completed exercises
+### Contains completed exercises
 
 ### Exercise 1-4
 
